@@ -1,6 +1,6 @@
 # Installation ohne Cloud Service Provider
 
-Nightscout lässt sich lokal installieren,  das beteutet die Website liegt auf einem eigenen Server. Z.B. auf einem Rasberry PI.
+Nightscout lässt sich lokal installieren, so dass die Website auf einem eigenen Server. Z.B. auf einem Rasberry PI liegt.
 
 **Windows**
 
